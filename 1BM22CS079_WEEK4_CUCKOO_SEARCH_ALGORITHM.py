@@ -1,3 +1,5 @@
+#WIFI Networking
+
 import numpy as np
 import math
 import random
@@ -100,4 +102,5 @@ plt.title('Optimal Sensor Placement')
 plt.xlabel('X')
 plt.ylabel('Y')
 plt.show()
+
 
